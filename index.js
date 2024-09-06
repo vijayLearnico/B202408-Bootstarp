@@ -1,0 +1,4 @@
+function giveAlert(){
+    alert('Hiii')
+}
+
